@@ -1,0 +1,17 @@
+*.cywrk.*
+*.cyprj.*
+debug/
+release/
+Export/
+CortexM0p/
+CortexM4/
+codegentemp_source/
+._datasheet.pdf
+._timeng.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
+*.zip
+
